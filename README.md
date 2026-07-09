@@ -1,12 +1,4 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝟒𝐆𝐁+𝐑𝐄𝐍𝐀𝐌𝐄+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+ThiruXD!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝟒𝐆𝐁+𝐑𝐄𝐍𝐀𝐌𝐄+𝐁𝐎𝐓!)</p>
-<img src="https://telegra.ph/file/a78cb56432238c4258806.jpg" alt="logo" target="/blank">
-
-<h1 align="center">
- <b><a href="https://telegram.me/RenameOne_Bot" target="/blank"> 𝟒𝐆𝐁 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓! </a>   🇩 🇪 🇲 🇴  </>
-</h1>
-
-<p align="center">💰  𝙋𝙍𝙄𝙑𝘼𝙏𝙀 𝙍𝙀𝙋𝙊  💰</p>
-
 
 ###  **𝑅𝐸𝑄𝑈𝐼𝑅𝐸𝐷 𝑉𝐴𝑅𝐼𝐴𝐵𝐿𝐸𝑆** 
 
@@ -64,9 +56,8 @@ resetpower - 𝑇𝑜 𝑟𝑒𝑠𝑒𝑡 𝑟𝑒𝑛𝑎𝑚𝑖𝑛𝑔 𝑐
 ```
 
 ### 🔗 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐔𝐬
-- [ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴩᴏ](https://telegram.me/HMF_Owner_1)
-- [ᴄʜᴀɴɴᴇʟ](https://telegram.me/ATL_Univers)
-- [ᴅᴇᴍᴏ ʙᴏᴛ](https://telegram.me/RenameTwo_Bot)
+- [Telegram](https://telegram.me/ThiruXD)
+- [Updates](https://telegram.me/ThiruEmpire)
 
 
 
