@@ -8,7 +8,7 @@ API_HASH = os.environ.get("API_HASH", "4aef7d9e065d92f4a95736eaeb93d3ac")
 TOKEN_ONE = os.environ.get("TOKEN_ONE", "")
 
 CHANNEL = os.environ.get("CHANNEL", "ATL_Univers") # username without '@'
-BOT_USERNAME = os.environ.get("BOT_USERNAME","") # username without '@'
+BOT_USERNAME = os.environ.get("BOT_USERNAME","XRenamerPro_Bot") # username without '@'
 SUPPORT_GROUP = os.environ.get("SUPPORT_GROUP","BYNF_TamilChat") # username without '@'
 UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL","ATL_Univers") # username without '@'
 OWNER_USERNAME = os.environ.get("OWNER_USERNAME","HMF_Owner_1")
