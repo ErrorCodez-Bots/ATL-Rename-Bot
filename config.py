@@ -5,7 +5,7 @@ id_pattern = re.compile(r'^.\d+$')
 API_ID = os.environ.get("API_ID", "20293219")
 API_HASH = os.environ.get("API_HASH", "4aef7d9e065d92f4a95736eaeb93d3ac")
 #BOT_TOKEN = os.environ.get("BOT_TOKEN", "8605444314:AAHZxA7RHBZxBIzUPFlQFQiRYk16a77zldg") 
-TOKEN_ONE = os.environ.get("TOKEN_ONE", "")
+TOKEN_ONE = os.environ.get("TOKEN_ONE", "8605444314:AAHZxA7RHBZxBIzUPFlQFQiRYk16a77zldg")
 
 CHANNEL = os.environ.get("CHANNEL", "ATL_Univers") # username without '@'
 BOT_USERNAME = os.environ.get("BOT_USERNAME","XRenamerPro_Bot") # username without '@'
